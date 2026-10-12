@@ -1,0 +1,12 @@
+{
+  "versionCode": 8,
+  "versionName": "1.6.0",
+  "apk": {
+    "armv7": "https://raw.githubusercontent.com/camahony/gemini-releases/main/Gemini-1.6.0-armv7.apk",
+    "arm64": "https://raw.githubusercontent.com/camahony/gemini-releases/main/Gemini-1.6.0-arm64.apk"
+  },
+  "sha256": {
+    "armv7": "411e3e419a3f57f084e3555c4ae37723f98d3b2a4f60c12611560df1423c99bc",
+    "arm64": "6558fb0bc1d95a4fc6cebe607b30fe6ec1ec45e97af74431a5edb8dae7b4ff0d"
+  }
+}
